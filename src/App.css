@@ -43,7 +43,6 @@
     border-radius: 4px;
     color: white;
     background: red;
-    box-shadow: ;
 }
 
 .cart-wrapper  {
@@ -63,6 +62,15 @@
 .item{
   float: left;
   padding: 10px;
+}
+.text-wrapper{
+  margin-top: 50px;
+    border: 1px solid red;
+}
+.btn-wrapper{
+  margin-top: 50px;
+  margin-left: 20px;
+  border: 1px solid red;
 }
 
 
