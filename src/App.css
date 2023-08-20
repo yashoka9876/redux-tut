@@ -27,6 +27,46 @@
 .App-link {
   color: #61dafb;
 }
+/* */
+
+.add-to-cart img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 1%;
+    top: 1%;
+    border: 1px solid red;
+
+}
+.button-wrapper button {
+    border: 0px;
+    border-radius: 4px;
+    color: white;
+    background: red;
+    box-shadow: ;
+}
+
+.cart-wrapper  {
+  border: 1px solid red;
+    height: 150px;
+    width: 500px;
+    border: 1px solid red;
+    margin-left: 10%;
+}
+
+.img-wrapper img{
+  margin-top: 10px;
+    width: 120px;
+    border: 1px solid red;
+    height: 120px; 
+}
+.item{
+  float: left;
+  padding: 10px;
+}
+
+
+ /* */
 
 @keyframes App-logo-spin {
   from {
